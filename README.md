@@ -1,6 +1,6 @@
 # breakout-game
 
-An Open GL version of the Breakout game, implemented using Python 3.8 and PyOpenGL package.
+An OpenGL version of the Breakout game, implemented using Python 3.8 and PyOpenGL package.
 
 The game was made as an assignment for the Computer Graphic course at UFMG in the first term of 2020 (01/2020)
 
