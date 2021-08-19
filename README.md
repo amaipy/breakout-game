@@ -2,7 +2,7 @@
 
 An OpenGL version of the Breakout game, implemented using Python 3.8 and PyOpenGL package.
 
-The game was made as an assignment for the Computer Graphic course at UFMG in the first term of 2020 (01/2020)
+The game was made as an assignment for the Computer Graphics course at UFMG in the first term of 2020 (01/2020)
 
 ## Game Footage
 
